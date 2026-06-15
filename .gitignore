@@ -1,0 +1,7 @@
+bin/
+obj/
+YayinlananUygulama/
+*.user
+*.suo
+.vs/
+*.log
